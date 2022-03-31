@@ -2,7 +2,7 @@
 
 ## [GitHub](https://github.com/LeoMbm)
 
-![Texte alternatif](http://assets.stickpng.com/images/5eb95d0e17f3c600044a2916.png "Photo de moi").
+![Texte alternatif](Bart.png "Photo de moi").
 
 _Mes films, séries, livres, jeux favoris_
 
